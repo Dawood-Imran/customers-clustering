@@ -40,10 +40,15 @@ The dataset contains customer data with the following columns:
 
 - **Optimal Number of Clusters**: Based on the elbow plot, we decided to use **4 clusters**.
 - **Cluster Descriptions**:
-  - **Cluster 0**: Younger customers with moderate spending and income.
-  - **Cluster 1**: Customers with high income and high spending.
-  - **Cluster 2**: Middle-aged customers with average spending and low income.
-  - **Cluster 3**: Customers with high income but low spending.
+  - **Cluster 0**: This cluster appears to be characterized by older individuals with higher incomes and spending habits.They might be retirees or individuals with established careers and financial stability.
+
+   - **Cluster 1**:  This cluster seems to be a mix of age groups with a slightly lower average income and spending compared to Cluster 0. This could represent a diverse group of individuals, including young professionals, students, or individuals with moderate incomes.
+
+  - **Cluster 2**: This cluster primarily consists of younger individuals with lower incomes and spending levels. They might be students, entry-level professionals, or individuals with limited financial resources.
+
+  - **Cluster 3**: This cluster exhibits a relatively balanced distribution of age, income, and spending, suggesting a diverse group of individuals with varying demographics and financial situations.
+ 
+
   
 ---
 
